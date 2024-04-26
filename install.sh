@@ -5,3 +5,6 @@ cargo install bob-nvim
 bob use stable
 sudo ln -s /home/$USER/.local/share/bob/nvim-bin/nvim /usr/bin/
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+# ADD NVIM CONFIGS
+# ADD XFCE CONFIGS
+# ADD FONTS
